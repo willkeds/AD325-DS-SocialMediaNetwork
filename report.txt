@@ -49,3 +49,6 @@ Switching Users
 
 Logout
 	The system allows users to log out and end their session. This feature is triggered when the user selects the logout option from the menu. Upon logging out, the program terminates, and the user is no longer able to interact with the system.
+
+A Note on Partner Interaction:
+	Unfortunately, I did not get to work with Will on this project. I never heard from him on Slack thorughout the process of building Project4, so I went ahead and built each class myself just in case. If he had participated in the expected way, I'm sure that this program would have been improved significantly. For the original class assignment breakdown, see delegate.jpg, where a star next to the class name indicates Will's original committment to the project. However, Will did happen to send me the invite to the repo, and he verbally volunteered to take responsibility for the UML diagram. While I completed the other classes on his behalf, I'm holding him to the responsibility for creating the UML diagram. So, if he happens to complete it he deserves credit for that as well. 
